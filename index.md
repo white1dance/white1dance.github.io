@@ -5,3 +5,5 @@
 
 *附上一张游戏截图：*
 ####![20200714142440_1.jpg](https://i.loli.net/2020/07/15/qH39BIhMTmVWSza.jpg)
+
+游戏购买地址：https://store.steampowered.com/app/1297160/a_new_life/
