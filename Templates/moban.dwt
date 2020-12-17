@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<embed src="../music/MONACA - Weight of the World (English Version).mp3" hidden="true" autostart="true" loop="true">
+<style type="text/css">
+body {
+	background-color: #FFF;
+	margin-left: 100px;
+	margin-right: 100px;
+	background-image: url(../image/preview.jpg);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+ 
+li {
+    float: left;
+}
+ 
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 18px 68px;
+    text-decoration: none;
+}
+ 
+/*鼠标移动到选项上修改背景颜色 */
+li a:hover {
+    background-color: #111;
+}
+p {
+	color: #FFF;
+}
+</style>
+</head>
+
+<body>
+
+<table width="1200" height="1258" border="0">
+  <tr>
+    <td height="278" colspan="2"><img src="../image/1578476922_100776.jpg" width="1200" height="278" /></td>
+  </tr>
+  <tr>
+    <td height="58" colspan="2"><ul>
+      <li><a>首页</a></li>
+      <li><a href="https://nierautomata.square-enix-games.com/en-us/home/">官方网站</a></li>
+      <li><a href="../yxziliao.html">游戏介绍</a></li>
+      <li><a href="../yxgonglue.html">游戏攻略</a></li>
+      <li><a href="https://tieba.baidu.com/f?kw=%E5%B0%BC%E5%B0%94%E6%9C%BA%E6%A2%B0%E7%BA%AA%E5%85%83&amp;fr=index&amp;fp=0&amp;ie=utf-8">游戏贴吧</a></li>
+      <li><a href="../游戏新闻.html">游戏新闻</a></li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td width="561" height="624"><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></td>
+    <td width="635"><!-- TemplateBeginEditable name="EditRegion4" -->&nbsp;<!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td height="39" colspan="2" align="center" bgcolor="#000000"><p>CopyRight©2003-2018 All Right Reserved</p></td>
+  </tr>
+</table>
+</body>
+</html>
